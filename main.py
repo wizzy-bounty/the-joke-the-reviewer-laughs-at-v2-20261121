@@ -9,8 +9,8 @@ Standard library only, no network, fully deterministic.
 import os
 
 JOKE = (
-    "The reviewer said my code was 'self-documenting'. "
-    "It documented itself a resignation letter."
+    "I asked the reviewer to be brutally honest. "
+    "He approved the PR and left one comment: 'Thoughts and prayers.'"
 )
 
 
